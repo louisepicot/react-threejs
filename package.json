@@ -32,5 +32,8 @@
   "main": "index.js",
   "repository": "git@github.com:louisepicot/react-threejs.git",
   "author": "Louise Picot <louisepicot@gmail.com>",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
 }
